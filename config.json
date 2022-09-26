@@ -1,0 +1,24 @@
+{
+   "sessionName": "Tn Doraemon",
+   "ownerNumber": "62895321026232@s.whatsapp.net",
+   "ownerName": "Tn Doraemon",
+   "botName": "Doraemon X Umaru",
+   "footer": "Doraemon X Umaru © 2022",
+   "butName": "Instagram",
+   "butLink": "https://instagram.com/asmarabot",   
+   "pathThumb": "./temp/logo.jpg",
+   "pathQris": "./temp/qris.jpg",
+   "packname": "Tiktok :",
+   "author": "@jakarta2005",
+   "mess": {
+    "wait": "*Tunggu permintaan anda sedang diproses!*",
+    "error": "*Maaf terjadi kesalahan!*",
+    "lv": "Link yang kamu berikan tidak valid",
+    "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
+    "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
+    "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
+    "BotAdmin": "Bot Harus menjadi admin",
+    "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
+    "OnlyPrem": "Perintah ini khusus member premium"
+   }
+}
